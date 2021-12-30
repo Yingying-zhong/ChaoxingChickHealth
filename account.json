@@ -1,0 +1,24 @@
+[
+  {
+    "username": "用戶名(手機號)",
+    "password": "密碼",
+    "information": {
+      "name": "你的名字",
+      "number": "這裏寫8位學號",
+      "college": "這裏寫學院，例如：人工智能学院",
+      "education": "這裏改成學位，例如：本科",
+      "grade": "這裏改成年級，例如：本一"
+    }
+  },
+  {
+    "username": "13000000000",
+    "password": "a123456A",
+    "information": {
+      "name": "我是範例",
+      "number": 21104101,
+      "college": "人工智能学院",
+      "education": "本科",
+      "grade": "本一"
+    }
+  }
+]
