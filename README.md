@@ -98,6 +98,7 @@ jobs:
 ```
 
 `sudo timedatectl set-timezone Asia/Taipei` 的意義為設定虛擬編譯運行環境的時區，防止提交的時間發生時區錯誤。
+！！！！注意：一定要將項目設定為Private，否則別人能看到你的超星學習通賬號及密碼！！！！
 
 ### 二次開發
 
